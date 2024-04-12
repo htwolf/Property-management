@@ -1,0 +1,42 @@
+/* Property single page styles */
+.property-single-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.property-single-container h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.property-single-container p {
+    margin-bottom: 10px;
+}
+
+/* Property archive page styles */
+.property-archive-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.property-archive-container h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.property-item {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+.property-item h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.property-item p {
+    margin-bottom: 5px;
+}

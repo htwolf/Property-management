@@ -1,0 +1,47 @@
+/* Property meta box styles */
+.property-meta-box table {
+    width: 100%;
+}
+
+.property-meta-box th {
+    width: 30%;
+    text-align: left;
+    padding: 10px 0;
+}
+
+.property-meta-box td {
+    width: 70%;
+    padding: 10px 0;
+}
+
+.property-meta-box input[type="text"],
+.property-meta-box input[type="number"],
+.property-meta-box textarea {
+    width: 100%;
+    padding: 5px;
+}
+
+.property-meta-box textarea {
+    resize: vertical;
+}
+
+/* Property listings styles */
+.property-list-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.property-list-table th,
+.property-list-table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.property-list-table th {
+    background-color: #f9f9f9;
+}
+
+.property-list-table tr:hover {
+    background-color: #f5f5f5;
+}
